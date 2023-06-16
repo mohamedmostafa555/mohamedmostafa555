@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi everyone :wave:
 
-<!--
-**mohamedmostafa555/mohamedmostafa555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer , who loves open source.
+ I am always learning.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+
+I do Open Source. In fact, I do Open Source so much, that 95% of my work on
+GitHub is free and open to everyone. I am really passionate about doing web
+development, it is in my opinion the best combination of logical programming and
+(sometimes) beautiful design.
+
+## My skills 📜
+
+### Web technologies
+
+- JavaScript
+ 
+
+- HTML, CSS
+
+- Node.js 
+
+- PHP
+- MySQL
+
+
+</details>
